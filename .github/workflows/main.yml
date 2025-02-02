@@ -16,11 +16,15 @@ jobs:
       - name: Commit and push changes
         uses: actions/github-script@v6
         with:
-          github-token: ${{ secrets.TOKEN }} # Important: Add this back for authentication
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const message = 'Update CSV data';
             const path = 'data.csv';
-            const content = fs.readFileSync(path, 'utf8'); // Read file content
+
+            // Explicitly require the fs module:
+            const fs = require('fs');
+
+            const content = fs.readFileSync(path, 'utf8');
 
             await github.rest.repos.createOrUpdateFileContents({
               owner: context.repo.owner,
@@ -28,6 +32,7 @@ jobs:
               path: path,
               message: message,
               content: content,
-              sha: context.sha || undefined, // Handle initial commit
+              sha: context.sha || undefined,
               branch: context.ref.split('/')[2]
             });
+            
