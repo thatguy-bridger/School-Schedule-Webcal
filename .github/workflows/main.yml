@@ -2,8 +2,8 @@ name: Update CSV from Google Sheets
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch:  # For manual triggering
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update_csv:
@@ -16,16 +16,18 @@ jobs:
       - name: Commit and push changes
         uses: actions/github-script@v6
         with:
+          github-token: ${{ secrets.TOKEN }} # Important: Add this back for authentication
           script: |
             const message = 'Update CSV data';
-            const files = ['data.csv']; // Array of files to commit
+            const path = 'data.csv';
+            const content = fs.readFileSync(path, 'utf8'); // Read file content
 
             await github.rest.repos.createOrUpdateFileContents({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              path: files[0], // Path to the file
+              path: path,
               message: message,
-              content: fs.readFileSync(files[0], 'utf8'), // File content
-              sha: context.sha, // Current commit SHA
-              branch: context.ref.split('/')[2] // Current branch
+              content: content,
+              sha: context.sha || undefined, // Handle initial commit
+              branch: context.ref.split('/')[2]
             });
