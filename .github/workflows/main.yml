@@ -1,38 +1,20 @@
-name: Generate and Update iCalendar
+name: Update CSV from Google Sheets
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *" # Run daily at midnight (adjust as needed)
+  schedule: # Optional: Run daily at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual triggering
 
 jobs:
-  generate-ical:
+  update_csv:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '16' # Choose a Node.js version
-
-      - name: Install dependencies
+      - uses: actions/checkout@v3
+      - name: Download CSV
         run: |
-          npm install gsheets
-
-      - name: Generate iCalendar data from Google Apps Script
-        run: |
-          ICALENDAR_DATA=$(npx gsheets exec 'generateIcalendarData()' \
-                              --credentials-file @${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY_FILE }} \
-                              --spreadsheet-id ${{ secrets.SPREADSHEET_ID }})
-          echo "::set-output name=ical_data::${ICALENDAR_DATA}"
-
-      - name: Create iCalendar file
-        run: |
-          echo "${{ steps.generate-ical.outputs.ical_data }}" > calendar.ics
-
+          curl -o data.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vSprhVOaQKUHHyW9dKmyQ3rXILs1Ci3UzPIy9XX3t9VVbu_OiAuANuFFqe7JNcGbHSWq6e4__uSWF0g/pub?gid=0&single=true&output=csv"
       - name: Commit and push changes
-        uses: actions/checkout@v3
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          push: true
+          commit_message: Update CSV data
+          file_pattern: data.csv
