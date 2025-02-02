@@ -25,7 +25,7 @@ jobs:
         run: |
           ICALENDAR_DATA=$(npx gsheets exec 'generateIcalendarData()' \
                               --credentials-file ./credentials.json \
-                              --spreadsheet-id 1qKJ7EQnQTH2MPXA1Laif0ZmaURM7NEYaonKIryZAgog)
+                              --spreadsheet-id ${{ secrets.SPREADSHEET_ID }})
           echo "::set-output name=ical_data::${ICALENDAR_DATA}"
 
       - name: Create iCalendar file
