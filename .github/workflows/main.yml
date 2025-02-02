@@ -1,5 +1,3 @@
-name: Generate and Update iCalendar
-
 on:
   workflow_dispatch:
   schedule:
@@ -24,7 +22,7 @@ jobs:
       - name: Generate iCalendar data from Google Apps Script
         run: |
           ICALENDAR_DATA=$(npx gsheets exec 'generateIcalendarData()' \
-                              --credentials-file @${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }} \
+                              --credentials-file @${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}  \ 
                               --spreadsheet-id ${{ secrets.SPREADSHEET_ID }})
           echo "::set-output name=ical_data::${ICALENDAR_DATA}"
 
