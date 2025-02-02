@@ -1,177 +1,168 @@
-Subject,Start date,Start Time,End Date,End Time,Description,Notes
-(A) School,8/19/2024,7:45:00 AM,8/19/2024,2:25:00 PM,(DAY 1)                                                                                                 First Day Of School,First Day Of School
-(B) School,8/20/2024,7:45:00 AM,8/20/2024,2:25:00 PM,(DAY 2)                            ,
-(A) School,8/21/2024,7:45:00 AM,8/21/2024,2:25:00 PM,(DAY 3)                            ,
-(B) School,8/22/2024,7:45:00 AM,8/22/2024,2:25:00 PM,(DAY 4)                            ,
-(A) School,8/23/2024,7:45:00 AM,8/23/2024,12:25:00 PM,(DAY 5)                            ,
-(B) School,8/26/2024,7:45:00 AM,8/26/2024,2:25:00 PM,(DAY 6)                            ,
-(A) School,8/27/2024,7:45:00 AM,8/27/2024,2:25:00 PM,(DAY 7)                            ,
-(B) School,8/28/2024,7:45:00 AM,8/28/2024,2:25:00 PM,(DAY 8)                            ,
-(A) School,8/29/2024,7:45:00 AM,8/29/2024,2:25:00 PM,(DAY 9)                            ,
-(B) School,8/30/2024,7:45:00 AM,8/30/2024,12:25:00 PM,(DAY 10)                            ,
-(A) School,9/3/2024,7:45:00 AM,9/3/2024,2:25:00 PM,(DAY 11)                            ,
-(B) School,9/4/2024,7:45:00 AM,9/4/2024,2:25:00 PM,(DAY 12)                            ,
-(A) School,9/5/2024,7:45:00 AM,9/5/2024,2:25:00 PM,(DAY 13)                            ,
-(B) School,9/6/2024,7:45:00 AM,9/6/2024,12:25:00 PM,(DAY 14)                            ,
-(A) School,9/9/2024,7:45:00 AM,9/9/2024,2:25:00 PM,(DAY 15)                            ,
-(B) School,9/10/2024,7:45:00 AM,9/10/2024,2:25:00 PM,(DAY 16)                            ,
-(A) School,9/11/2024,7:45:00 AM,9/11/2024,2:25:00 PM,(DAY 17)                            ,
-(B) School,9/12/2024,7:45:00 AM,9/12/2024,2:25:00 PM,(DAY 18)                            ,
-(A) School,9/13/2024,7:45:00 AM,9/13/2024,12:25:00 PM,(DAY 19)                            ,
-(B) School,9/16/2024,7:45:00 AM,9/16/2024,2:25:00 PM,(DAY 20)                            ,
-(A) School,9/17/2024,7:45:00 AM,9/17/2024,2:25:00 PM,(DAY 21)                            ,
-(B) School,9/18/2024,7:45:00 AM,9/18/2024,2:25:00 PM,(DAY 22)                            ,
-(A) School,9/19/2024,7:45:00 AM,9/19/2024,2:25:00 PM,(DAY 23)                            ,
-(B) School,9/20/2024,7:45:00 AM,9/20/2024,12:25:00 PM,(DAY 24)                            ,
-(A) School,9/23/2024,7:45:00 AM,9/23/2024,2:25:00 PM,(DAY 25)                            PTC,PTC
-(B) School,9/24/2024,7:45:00 AM,9/24/2024,2:25:00 PM,(DAY 26)                            PTC,PTC
-(A) School,9/25/2024,7:45:00 AM,9/25/2024,2:25:00 PM,(DAY 27)                            ,
-(B) School,9/26/2024,7:45:00 AM,9/26/2024,2:25:00 PM,(DAY 28)                            Early Out,Early Out
-(A) School,9/30/2024,7:45:00 AM,9/30/2024,2:25:00 PM,(DAY 29)                            ,
-(B) School,10/1/2024,7:45:00 AM,10/1/2024,2:25:00 PM,(DAY 30)                            ,
-(A) School,10/2/2024,7:45:00 AM,10/2/2024,2:25:00 PM,(DAY 31)                            ,
-(B) School,10/3/2024,7:45:00 AM,10/3/2024,2:25:00 PM,(DAY 32)                            ,
-(A) School,10/4/2024,7:45:00 AM,10/4/2024,12:25:00 PM,(DAY 33)                            ,
-(B) School,10/7/2024,7:45:00 AM,10/7/2024,2:25:00 PM,(DAY 34)                            ,
-(A) School,10/8/2024,7:45:00 AM,10/8/2024,2:25:00 PM,(DAY 35)                            ,
-(B) School,10/9/2024,7:45:00 AM,10/9/2024,2:25:00 PM,(DAY 36)                            ,
-(A) School,10/10/2024,7:45:00 AM,10/10/2024,2:25:00 PM,(DAY 37)                            ,
-(B) School,10/11/2024,7:45:00 AM,10/11/2024,12:25:00 PM,(DAY 38)                            ,
-(A) School,10/14/2024,7:45:00 AM,10/14/2024,2:25:00 PM,(DAY 39)                            ,
-(B) School,10/15/2024,7:45:00 AM,10/15/2024,2:25:00 PM,(DAY 40)                            ,
-(A) School,10/16/2024,7:45:00 AM,10/16/2024,2:25:00 PM,(DAY 41)                            ,
-(B) School,10/22/2024,7:45:00 AM,10/22/2024,2:25:00 PM,(DAY 42)                            ,
-(A) School,10/23/2024,7:45:00 AM,10/23/2024,2:25:00 PM,(DAY 43)                            ,
-(B) School,10/24/2024,7:45:00 AM,10/24/2024,2:25:00 PM,(DAY 44)                            ,
-(A) School,10/25/2024,7:45:00 AM,10/25/2024,12:25:00 PM,(DAY 45)                            End Of Q1,End Of Q1
-(B) School,10/28/2024,7:45:00 AM,10/28/2024,2:25:00 PM,(DAY 46)                            ,
-(A) School,10/29/2024,7:45:00 AM,10/29/2024,2:25:00 PM,(DAY 47)                            ,
-(B) School,10/30/2024,7:45:00 AM,10/30/2024,2:25:00 PM,(DAY 48)                            ,
-(A) School,10/31/2024,7:45:00 AM,10/31/2024,2:25:00 PM,(DAY 49)                            ,
-(B) School,11/1/2024,7:45:00 AM,11/1/2024,12:25:00 PM,(DAY 50)                            ,
-(A) School,11/4/2024,7:45:00 AM,11/4/2024,2:25:00 PM,(DAY 51)                            ,
-(B) School,11/5/2024,7:45:00 AM,11/5/2024,2:25:00 PM,(DAY 52)                            ,
-(A) School,11/6/2024,7:45:00 AM,11/6/2024,2:25:00 PM,(DAY 53)                            ,
-(B) School,11/7/2024,7:45:00 AM,11/7/2024,2:25:00 PM,(DAY 54)                            ,
-(A) School,11/8/2024,7:45:00 AM,11/8/2024,12:25:00 PM,(DAY 55)                            ,
-(B) School,11/11/2024,7:45:00 AM,11/11/2024,2:25:00 PM,(DAY 56)                            ,
-(A) School,11/12/2024,7:45:00 AM,11/12/2024,2:25:00 PM,(DAY 57)                            ,
-(B) School,11/13/2024,7:45:00 AM,11/13/2024,2:25:00 PM,(DAY 58)                            ,
-(A) School,11/14/2024,7:45:00 AM,11/14/2024,2:25:00 PM,(DAY 59)                            ,
-(B) School,11/15/2024,7:45:00 AM,11/15/2024,12:25:00 PM,(DAY 60)                            ,
-(A) School,11/18/2024,7:45:00 AM,11/18/2024,2:25:00 PM,(DAY 61)                            ,
-(B) School,11/19/2024,7:45:00 AM,11/19/2024,2:25:00 PM,(DAY 62)                            ,
-(A) School,11/20/2024,7:45:00 AM,11/20/2024,2:25:00 PM,(DAY 63)                            ,
-(B) School,11/21/2024,7:45:00 AM,11/21/2024,2:25:00 PM,(DAY 64)                            ,
-(A) School,11/22/2024,7:45:00 AM,11/22/2024,12:25:00 PM,(DAY 65)                            ,
-(B) School,11/25/2024,7:45:00 AM,11/25/2024,2:25:00 PM,(DAY 66)                            ,
-(A) School,11/26/2024,7:45:00 AM,11/26/2024,2:25:00 PM,(DAY 67)                            ,
-(B) School,12/2/2024,7:45:00 AM,12/2/2024,2:25:00 PM,(DAY 68)                            ,
-(A) School,12/3/2024,7:45:00 AM,12/3/2024,2:25:00 PM,(DAY 69)                            ,
-(B) School,12/4/2024,7:45:00 AM,12/4/2024,2:25:00 PM,(DAY 70)                            ,
-(A) School,12/5/2024,7:45:00 AM,12/5/2024,2:25:00 PM,(DAY 71)                            ,
-(B) School,12/6/2024,7:45:00 AM,12/6/2024,12:25:00 PM,(DAY 72)                            ,
-(A) School,12/9/2024,7:45:00 AM,12/9/2024,2:25:00 PM,(DAY 73)                            ,
-(B) School,12/10/2024,7:45:00 AM,12/10/2024,2:25:00 PM,(DAY 74)                            ,
-(A) School,12/11/2024,7:45:00 AM,12/11/2024,2:25:00 PM,(DAY 75)                            ,
-(B) School,12/12/2024,7:45:00 AM,12/12/2024,2:25:00 PM,(DAY 76)                            ,
-(A) School,12/13/2024,7:45:00 AM,12/13/2024,12:25:00 PM,(DAY 77)                            ,
-(B) School,12/16/2024,7:45:00 AM,12/16/2024,2:25:00 PM,(DAY 78)                            ,
-(A) School,12/17/2024,7:45:00 AM,12/17/2024,2:25:00 PM,(DAY 79)                            ,
-(B) School,12/18/2024,7:45:00 AM,12/18/2024,2:25:00 PM,(DAY 80)                            ,
-(A) School,12/19/2024,7:45:00 AM,12/19/2024,2:25:00 PM,(DAY 81)                            ,
-(B) School,12/20/2024,7:45:00 AM,12/20/2024,12:25:00 PM,(DAY 82)                            ,
-(A) School,1/6/2025,7:45:00 AM,1/6/2025,2:25:00 PM,(DAY 83)                            ,
-(B) School,1/7/2025,7:45:00 AM,1/7/2025,2:25:00 PM,(DAY 84)                            ,
-(A) School,1/8/2025,7:45:00 AM,1/8/2025,2:25:00 PM,(DAY 85)                            ,
-(B) School,1/9/2025,7:45:00 AM,1/9/2025,2:25:00 PM,(DAY 86)                            ,
-(A) School,1/10/2025,7:45:00 AM,1/10/2025,12:25:00 PM,(DAY 87)                            ,
-(B) School,1/13/2025,7:45:00 AM,1/13/2025,2:25:00 PM,(DAY 88)                            ,
-(A) School,1/14/2025,7:45:00 AM,1/14/2025,2:25:00 PM,(DAY 89)                            ,
-(B) School,1/15/2025,7:45:00 AM,1/15/2025,2:25:00 PM,(DAY 90)                            ,
-(A) School,1/16/2025,7:45:00 AM,1/16/2025,2:25:00 PM,(DAY 91)                            End Of Q2,End Of Q2
-(B) School,1/21/2025,7:45:00 AM,1/21/2025,2:25:00 PM,(DAY 92)                            ,
-(A) School,1/22/2025,7:45:00 AM,1/22/2025,2:25:00 PM,(DAY 93)                            ,
-(B) School,1/23/2025,7:45:00 AM,1/23/2025,2:25:00 PM,(DAY 94)                            ,
-(A) School,1/24/2025,7:45:00 AM,1/24/2025,12:25:00 PM,(DAY 95)                            ,
-(B) School,1/27/2025,7:45:00 AM,1/27/2025,2:25:00 PM,(DAY 96)                            ,
-(A) School,1/28/2025,7:45:00 AM,1/28/2025,2:25:00 PM,(DAY 97)                            ,
-(B) School,1/29/2025,7:45:00 AM,1/29/2025,2:25:00 PM,(DAY 98)                            ,
-(A) School,1/30/2025,7:45:00 AM,1/30/2025,2:25:00 PM,(DAY 99)                            ,
-(B) School,1/31/2025,7:45:00 AM,1/31/2025,12:25:00 PM,(DAY 100)                            ,
-(A) School,2/3/2025,7:45:00 AM,2/3/2025,2:25:00 PM,(DAY 101)                            ,
-(B) School,2/4/2025,7:45:00 AM,2/4/2025,2:25:00 PM,(DAY 102)                            ,
-(A) School,2/5/2025,7:45:00 AM,2/5/2025,2:25:00 PM,(DAY 103)                            ,
-(B) School,2/6/2025,7:45:00 AM,2/6/2025,2:25:00 PM,(DAY 104)                            ,
-(A) School,2/7/2025,7:45:00 AM,2/7/2025,12:25:00 PM,(DAY 105)                            ,
-(B) School,2/10/2025,7:45:00 AM,2/10/2025,2:25:00 PM,(DAY 106)                            ,
-(A) School,2/11/2025,7:45:00 AM,2/11/2025,2:25:00 PM,(DAY 107)                            ,
-(B) School,2/12/2025,7:45:00 AM,2/12/2025,2:25:00 PM,(DAY 108)                            ,
-(A) School,2/13/2025,7:45:00 AM,2/13/2025,2:25:00 PM,(DAY 109)                            ,
-(B) School,2/14/2025,7:45:00 AM,2/14/2025,12:25:00 PM,(DAY 110)                            ,
-(A) School,2/18/2025,7:45:00 AM,2/18/2025,2:25:00 PM,(DAY 111)                            ,
-(B) School,2/19/2025,7:45:00 AM,2/19/2025,2:25:00 PM,(DAY 112)                            ,
-(A) School,2/20/2025,7:45:00 AM,2/20/2025,2:25:00 PM,(DAY 113)                            ,
-(B) School,2/21/2025,7:45:00 AM,2/21/2025,12:25:00 PM,(DAY 114)                            ,
-(A) School,2/24/2025,7:45:00 AM,2/24/2025,2:25:00 PM,(DAY 115)                            ,
-(B) School,2/25/2025,7:45:00 AM,2/25/2025,2:25:00 PM,(DAY 116)                            ,
-(A) School,2/26/2025,7:45:00 AM,2/26/2025,2:25:00 PM,(DAY 117)                            ,
-(B) School,2/27/2025,7:45:00 AM,2/27/2025,2:25:00 PM,(DAY 118)                            Early Out,Early Out
-(A) School,3/3/2025,7:45:00 AM,3/3/2025,2:25:00 PM,(DAY 119)                            ,
-(B) School,3/4/2025,7:45:00 AM,3/4/2025,2:25:00 PM,(DAY 120)                            ,
-(A) School,3/5/2025,7:45:00 AM,3/5/2025,2:25:00 PM,(DAY 121)                            ,
-(B) School,3/6/2025,7:45:00 AM,3/6/2025,2:25:00 PM,(DAY 122)                            ,
-(A) School,3/7/2025,7:45:00 AM,3/7/2025,12:25:00 PM,(DAY 123)                            ,
-(B) School,3/10/2025,7:45:00 AM,3/10/2025,2:25:00 PM,(DAY 124)                            ,
-(A) School,3/11/2025,7:45:00 AM,3/11/2025,2:25:00 PM,(DAY 125)                            ,
-(B) School,3/12/2025,7:45:00 AM,3/12/2025,2:25:00 PM,(DAY 126)                            ,
-(A) School,3/13/2025,7:45:00 AM,3/13/2025,2:25:00 PM,(DAY 127)                            ,
-(B) School,3/14/2025,7:45:00 AM,3/14/2025,12:25:00 PM,(DAY 128)                            ,
-(A) School,3/17/2025,7:45:00 AM,3/17/2025,2:25:00 PM,(DAY 129)                            ,
-(B) School,3/18/2025,7:45:00 AM,3/18/2025,2:25:00 PM,(DAY 130)                            ,
-(A) School,3/19/2025,7:45:00 AM,3/19/2025,2:25:00 PM,(DAY 131)                            ,
-(B) School,3/20/2025,7:45:00 AM,3/20/2025,2:25:00 PM,(DAY 132)                            ,
-(A) School,3/21/2025,7:45:00 AM,3/21/2025,12:25:00 PM,(DAY 133)                            End Of Q3,End Of Q3
-(B) School,3/25/2025,7:45:00 AM,3/25/2025,2:25:00 PM,(DAY 134)                            ,
-(A) School,3/26/2025,7:45:00 AM,3/26/2025,2:25:00 PM,(DAY 135)                            ,
-(B) School,3/27/2025,7:45:00 AM,3/27/2025,2:25:00 PM,(DAY 136)                            ,
-(A) School,3/28/2025,7:45:00 AM,3/28/2025,12:25:00 PM,(DAY 137)                            ,
-(B) School,3/31/2025,7:45:00 AM,3/31/2025,2:25:00 PM,(DAY 138)                            ,
-(A) School,4/1/2025,7:45:00 AM,4/1/2025,2:25:00 PM,(DAY 139)                            ,
-(B) School,4/2/2025,7:45:00 AM,4/2/2025,2:25:00 PM,(DAY 140)                            ,
-(A) School,4/3/2025,7:45:00 AM,4/3/2025,2:25:00 PM,(DAY 141)                            ,
-(B) School,4/4/2025,7:45:00 AM,4/4/2025,12:25:00 PM,(DAY 142)                            ,
-(A) School,4/14/2025,7:45:00 AM,4/14/2025,2:25:00 PM,(DAY 143)                            ,
-(B) School,4/15/2025,7:45:00 AM,4/15/2025,2:25:00 PM,(DAY 144)                            ,
-(A) School,4/16/2025,7:45:00 AM,4/16/2025,2:25:00 PM,(DAY 145)                            ,
-(B) School,4/17/2025,7:45:00 AM,4/17/2025,2:25:00 PM,(DAY 146)                            ,
-(A) School,4/18/2025,7:45:00 AM,4/18/2025,12:25:00 PM,(DAY 147)                            ,
-(B) School,4/21/2025,7:45:00 AM,4/21/2025,2:25:00 PM,(DAY 148)                            ,
-(A) School,4/22/2025,7:45:00 AM,4/22/2025,2:25:00 PM,(DAY 149)                            ,
-(B) School,4/23/2025,7:45:00 AM,4/23/2025,2:25:00 PM,(DAY 150)                            ,
-(A) School,4/24/2025,7:45:00 AM,4/24/2025,2:25:00 PM,(DAY 151)                            ,
-(B) School,4/25/2025,7:45:00 AM,4/25/2025,12:25:00 PM,(DAY 152)                            ,
-(A) School,4/28/2025,7:45:00 AM,4/28/2025,2:25:00 PM,(DAY 153)                            ,
-(B) School,4/29/2025,7:45:00 AM,4/29/2025,2:25:00 PM,(DAY 154)                            ,
-(A) School,4/30/2025,7:45:00 AM,4/30/2025,2:25:00 PM,(DAY 155)                            ,
-(B) School,5/1/2025,7:45:00 AM,5/1/2025,2:25:00 PM,(DAY 156)                            ,
-(A) School,5/2/2025,7:45:00 AM,5/2/2025,12:25:00 PM,(DAY 157)                            ,
-(B) School,5/5/2025,7:45:00 AM,5/5/2025,2:25:00 PM,(DAY 158)                            ,
-(A) School,5/6/2025,7:45:00 AM,5/6/2025,2:25:00 PM,(DAY 159)                            ,
-(B) School,5/7/2025,7:45:00 AM,5/7/2025,2:25:00 PM,(DAY 160)                            ,
-(A) School,5/8/2025,7:45:00 AM,5/8/2025,2:25:00 PM,(DAY 161)                            ,
-(B) School,5/9/2025,7:45:00 AM,5/9/2025,12:25:00 PM,(DAY 162)                            ,
-(A) School,5/12/2025,7:45:00 AM,5/12/2025,2:25:00 PM,(DAY 163)                            ,
-(B) School,5/13/2025,7:45:00 AM,5/13/2025,2:25:00 PM,(DAY 164)                            ,
-(A) School,5/14/2025,7:45:00 AM,5/14/2025,2:25:00 PM,(DAY 165)                            ,
-(B) School,5/15/2025,7:45:00 AM,5/15/2025,2:25:00 PM,(DAY 166)                            ,
-(A) School,5/16/2025,7:45:00 AM,5/16/2025,12:25:00 PM,(DAY 167)                            ,
-(B) School,5/19/2025,7:45:00 AM,5/19/2025,2:25:00 PM,(DAY 168)                            ,
-(A) School,5/20/2025,7:45:00 AM,5/20/2025,2:25:00 PM,(DAY 169)                            ,
-(B) School,5/21/2025,7:45:00 AM,5/21/2025,2:25:00 PM,(DAY 170)                            ,
-(A) School,5/22/2025,7:45:00 AM,5/22/2025,2:25:00 PM,(DAY 171)                            ,
-(B) School,5/23/2025,7:45:00 AM,5/23/2025,12:25:00 PM,(DAY 172)                            ,
-(A) School,5/27/2025,7:45:00 AM,5/27/2025,2:25:00 PM,(DAY 173)                            ,
-(B) School,5/28/2025,7:45:00 AM,5/28/2025,2:25:00 PM,(DAY 174)                            ,
-(A) School,5/29/2025,7:45:00 AM,5/29/2025,2:25:00 PM,(DAY 175)                            ,
-(B) School,5/30/2025,7:45:00 AM,5/30/2025,12:25:00 PM,(DAY 176)                            Last Day Of School,Last Day Of School
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Product//EN
+BEGIN:VEVENT
+SUMMARY:(A) School - First Day Of School
+DTSTART;VALUE=DATE-TIME:20240819T074500
+DTEND;VALUE=DATE-TIME:20240819T142500
+DESCRIPTION:(DAY 1) First Day Of School
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(B) School
+DTSTART;VALUE=DATE-TIME:20240820T074500
+DTEND;VALUE=DATE-TIME:20240820T142500
+DESCRIPTION:(DAY 2)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(A) School
+DTSTART;VALUE=DATE-TIME:20240821T074500
+DTEND;VALUE=DATE-TIME:20240821T142500
+DESCRIPTION:(DAY 3)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(B) School
+DTSTART;VALUE=DATE-TIME:20240822T074500
+DTEND;VALUE=DATE-TIME:20240822T142500
+DESCRIPTION:(DAY 4)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(A) School
+DTSTART;VALUE=DATE-TIME:20240823T074500
+DTEND;VALUE=DATE-TIME:20240823T122500
+DESCRIPTION:(DAY 5)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(B) School
+DTSTART;VALUE=DATE-TIME:20240826T074500
+DTEND;VALUE=DATE-TIME:20240826T142500
+DESCRIPTION:(DAY 6)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(A) School
+DTSTART;VALUE=DATE-TIME:20240827T074500
+DTEND;VALUE=DATE-TIME:20240827T142500
+DESCRIPTION:(DAY 7)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(B) School
+DTSTART;VALUE=DATE-TIME:20240828T074500
+DTEND;VALUE=DATE-TIME:20240828T142500
+DESCRIPTION:(DAY 8)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(A) School
+DTSTART;VALUE=DATE-TIME:20240829T074500
+DTEND;VALUE=DATE-TIME:20240829T142500
+DESCRIPTION:(DAY 9)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(B) School
+DTSTART;VALUE=DATE-TIME:20240830T074500
+DTEND;VALUE=DATE-TIME:20240830T122500
+DESCRIPTION:(DAY 10)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(A) School
+DTSTART;VALUE=DATE-TIME:20240903T074500
+DTEND;VALUE=DATE-TIME:20240903T142500
+DESCRIPTION:(DAY 11)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(B) School
+DTSTART;VALUE=DATE-TIME:20240904T074500
+DTEND;VALUE=DATE-TIME:20240904T142500
+DESCRIPTION:(DAY 12)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(A) School
+DTSTART;VALUE=DATE-TIME:20240905T074500
+DTEND;VALUE=DATE-TIME:20240905T142500
+DESCRIPTION:(DAY 13)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(B) School
+DTSTART;VALUE=DATE-TIME:20240906T074500
+DTEND;VALUE=DATE-TIME:20240906T122500
+DESCRIPTION:(DAY 14)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(A) School
+DTSTART;VALUE=DATE-TIME:20240909T074500
+DTEND;VALUE=DATE-TIME:20240909T142500
+DESCRIPTION:(DAY 15)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(B) School
+DTSTART;VALUE=DATE-TIME:20240910T074500
+DTEND;VALUE=DATE-TIME:20240910T142500
+DESCRIPTION:(DAY 16)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(A) School
+DTSTART;VALUE=DATE-TIME:20240911T074500
+DTEND;VALUE=DATE-TIME:20240911T142500
+DESCRIPTION:(DAY 17)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(B) School
+DTSTART;VALUE=DATE-TIME:20240912T074500
+DTEND;VALUE=DATE-TIME:20240912T142500
+DESCRIPTION:(DAY 18)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(A) School
+DTSTART;VALUE=DATE-TIME:20240913T074500
+DTEND;VALUE=DATE-TIME:20240913T122500
+DESCRIPTION:(DAY 19)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(B) School
+DTSTART;VALUE=DATE-TIME:20240916T074500
+DTEND;VALUE=DATE-TIME:20240916T142500
+DESCRIPTION:(DAY 20)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(A) School
+DTSTART;VALUE=DATE-TIME:20240917T074500
+DTEND;VALUE=DATE-TIME:20240917T142500
+DESCRIPTION:(DAY 21)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(B) School
+DTSTART;VALUE=DATE-TIME:20240918T074500
+DTEND;VALUE=DATE-TIME:20240918T142500
+DESCRIPTION:(DAY 22)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(A) School
+DTSTART;VALUE=DATE-TIME:20240919T074500
+DTEND;VALUE=DATE-TIME:20240919T142500
+DESCRIPTION:(DAY 23)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(B) School
+DTSTART;VALUE=DATE-TIME:20240920T074500
+DTEND;VALUE=DATE-TIME:20240920T122500
+DESCRIPTION:(DAY 24)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(A) School - PTC
+DTSTART;VALUE=DATE-TIME:20240923T074500
+DTEND;VALUE=DATE-TIME:20240923T142500
+DESCRIPTION:(DAY 25) PTC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(B) School - PTC
+DTSTART;VALUE=DATE-TIME:20240924T074500
+DTEND;VALUE=DATE-TIME:20240924T142500
+DESCRIPTION:(DAY 26) PTC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(A) School
+DTSTART;VALUE=DATE-TIME:20240925T074500
+DTEND;VALUE=DATE-TIME:20240925T142500
+DESCRIPTION:(DAY 27)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(B) School - Early Out
+DTSTART;VALUE=
