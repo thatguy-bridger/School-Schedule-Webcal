@@ -18,4 +18,4 @@ jobs:
         with:
           commit_message: Update CSV data
           file_pattern: data.csv
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.TOKEN }}
